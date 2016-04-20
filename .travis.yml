@@ -1,0 +1,3 @@
+install:
+  - which chromium-browser
+  - dpkg -l
